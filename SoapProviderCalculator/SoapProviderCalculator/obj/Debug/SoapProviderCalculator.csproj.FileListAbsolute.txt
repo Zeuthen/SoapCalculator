@@ -1,0 +1,6 @@
+C:\Users\brorm\OneDrive - ErhvervsAkademi Sjælland\Projects\SoapProviderCalculator\SoapProviderCalculator\bin\SoapProviderCalculator.dll.config
+C:\Users\brorm\OneDrive - ErhvervsAkademi Sjælland\Projects\SoapProviderCalculator\SoapProviderCalculator\bin\SoapProviderCalculator.dll
+C:\Users\brorm\OneDrive - ErhvervsAkademi Sjælland\Projects\SoapProviderCalculator\SoapProviderCalculator\bin\SoapProviderCalculator.pdb
+C:\Users\brorm\OneDrive - ErhvervsAkademi Sjælland\Projects\SoapProviderCalculator\SoapProviderCalculator\obj\Debug\SoapProviderCalculator.csprojResolveAssemblyReference.cache
+C:\Users\brorm\OneDrive - ErhvervsAkademi Sjælland\Projects\SoapProviderCalculator\SoapProviderCalculator\obj\Debug\SoapProviderCalculator.dll
+C:\Users\brorm\OneDrive - ErhvervsAkademi Sjælland\Projects\SoapProviderCalculator\SoapProviderCalculator\obj\Debug\SoapProviderCalculator.pdb
